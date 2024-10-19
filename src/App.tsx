@@ -20,7 +20,7 @@ const App: React.FC = () => {
     <main className="min-h-screen bg-[#00843d] text-black flex items-center justify-center p-4">
       <div className="w-full max-w-md space-y-8">
         <div className="text-center space-y-2">
-          <h1 className="text-4xl font-bold tracking-tight">Chromakopia pfp Generator</h1>
+          <h1 className="text-4xl font-bold tracking-tight">Chromakopia pfp</h1>
           <p className="text-xl">Enter your name below to generate a profile picture</p>
         </div>
         <div className="space-y-4">
